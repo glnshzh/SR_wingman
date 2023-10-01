@@ -35,6 +35,3 @@ class Framework:
 
 if __name__ == '__main__':
     ttk=Framework()
-
-
-
